@@ -1,0 +1,5 @@
+Programa: ./ativ3/contalinhas_tasks
+threads=1 media=0.1879 s (n=10)
+threads=2 media=0.2378 s (n=10)
+threads=4 media=0.2148 s (n=10)
+threads=8 media=0.2291 s (n=10)

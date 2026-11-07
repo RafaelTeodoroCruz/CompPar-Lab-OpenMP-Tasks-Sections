@@ -1,0 +1,5 @@
+Programa: ./ativ2/simulacao_inicial
+threads=1 media=0.0556 s (n=10)
+threads=2 media=0.0522 s (n=10)
+threads=4 media=0.0519 s (n=10)
+threads=8 media=0.0484 s (n=10)

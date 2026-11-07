@@ -1,0 +1,5 @@
+Programa: ./ativ3/contalinhas_inicial
+threads=1 media=0.0008 s (n=10)
+threads=2 media=0.0008 s (n=10)
+threads=4 media=0.0007 s (n=10)
+threads=8 media=0.0007 s (n=10)

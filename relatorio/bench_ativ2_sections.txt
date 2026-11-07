@@ -1,0 +1,5 @@
+Programa: ./ativ2/simulacao_sections
+threads=1 media=0.0559 s (n=10)
+threads=2 media=0.0447 s (n=10)
+threads=4 media=0.0362 s (n=10)
+threads=8 media=0.0414 s (n=10)

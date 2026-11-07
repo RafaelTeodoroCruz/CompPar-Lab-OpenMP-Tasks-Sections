@@ -1,0 +1,5 @@
+Programa: ./ativ1/analise_sections
+threads=1 media=0.1182 s (n=10)
+threads=2 media=0.1094 s (n=10)
+threads=4 media=0.0907 s (n=10)
+threads=8 media=0.0911 s (n=10)
